@@ -1,0 +1,12 @@
+{
+  "name": "ui-design-h3llbb",
+  "version": "1.0.0",
+  "description": "Generated project for ui-design-h3llbb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
